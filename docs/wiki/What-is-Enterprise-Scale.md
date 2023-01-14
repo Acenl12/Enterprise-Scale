@@ -47,7 +47,7 @@ Another example are some of the networking resources that we provide prescriptiv
 - [ExpressRoute Gateways & Circuits](https://azure.microsoft.com/pricing/details/expressroute/)
 - [Azure Firewalls](https://azure.microsoft.com/pricing/details/azure-firewall/)
 - [Virtual WANs](https://azure.microsoft.com/pricing/details/virtual-wan/)
-- [DDoS Standard Protection Plans](https://azure.microsoft.com/pricing/details/ddos-protection/)
+- [DDoS Network Protection](https://azure.microsoft.com/pricing/details/ddos-protection/)
 
 Each of these resources have an associated cost that varies based on how they are deployed, configured and consumed as part of your Enterprise-Scale deployment.
 
@@ -59,4 +59,4 @@ Therefore it is important to complete the design process following the Enterpris
 
 Enterprise-Scale reference implementation will meet you where you are, and the design has catered for existing subscriptions and workloads in Azure.
 
-See the following [article](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/transition) to learn more how you can transition into Enterprise-Scale.
+See the following [article](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/enterprise-scale/transition) to learn more how you can transition into Enterprise-Scale.
